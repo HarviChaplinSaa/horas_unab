@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.horasunab">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.HorasUnab">
+        <activity
+            android:name=".view.activitys.ListDetailStudentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.activitys.FormActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.activitys.ListDetailActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.activitys.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.activitys.ListAdminActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.activitys.ListStudentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".view.activitys.MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

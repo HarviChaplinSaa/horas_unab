@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">HorasUnab</string>
+
+    <!-- LOGIN -->
+    <string name="txt_title_spn_login">Inicio de sesión</string>
+    <string name="txt_title_eng_login">Login</string>
+    <string name="hint_user_spn_login">Usuario</string>
+    <string name="hint_user_eng_login">User</string>
+    <string name="hint_pass_spn_login">Contraseña</string>
+    <string name="hint_pass_eng_login">Password</string>
+    <string name="txt_login_button_spn_login">Iniciar sesión</string>
+    <string name="txt_login_button_eng_login">Login</string>
+    <string name="txt_reg_button_spn_login">Registrarse</string>
+    <string name="txt_reg_button_eng_login">Register</string>
+    <string name="txt_admin_spn_login">Administrador</string>
+    <string name="txt_admin_eng_login">Admin</string>
+    <string name="txt_student_spn_login">Estudiante</string>
+    <string name="txt_student_eng_login">Student</string>
+    <!-- REGISTER -->
+    <string name="txt_title_spn_register">Registro de usuario</string>
+    <string name="txt_title_eng_register">Register</string>
+    <string name="hint_id_eng_register">Id</string>
+    <string name="hint_name_spn_register">Nombres</string>
+    <string name="hint_name_eng_register">Name</string>
+    <string name="hint_last_name_spn_register">Apellidos</string>
+    <string name="hint_last_name_eng_register">Last Name</string>
+    <string name="hint_email_spn_register">Correo electrónico</string>
+    <string name="hint_email_eng_register">E-mail</string>
+    <string name="hint_career_spn_register">Carrera que cursa</string>
+    <string name="hint_career_eng_register">College career</string>
+    <string name="hint_pass_spn_register">Contraseña</string>
+    <string name="hint_pass_eng_register">Password</string>
+    <string name="hint_confirm_spn_register">Confirmar Contraseña</string>
+    <string name="hint_confirm_eng_register">Confirm Password</string>
+    <string name="txt_login_button_spn_register">Iniciar sesión</string>
+    <string name="txt_login_button_eng_register">Login</string>
+    <string name="txt_reg_button_spn_register">Registrarse</string>
+    <string name="txt_reg_button_eng_register">Register</string>
+    <!-- LIST -->
+    <string name="txt_title_spn_list">Lista de actividades</string>
+    <string name="txt_title_eng_list">Activity List</string>
+    <string name="txt_create_button_spn_list">Crear actividad</string>
+    <string name="txt_create_button_eng_list">Create Activity</string>
+    <!-- FORM -->
+    <string name="txt_edit_title_spn_form">Editar actividad</string>
+    <string name="txt_edit_title_eng_form">Edit Activity</string>
+    <string name="txt_create_title_spn_form">Crear actividad</string>
+    <string name="txt_create_title_eng_form">Create Activity</string>
+    <string name="hint_activity_name_spn_form">Nombre actividad</string>
+    <string name="hint_activity_name_eng_form">Activity Name</string>
+    <string name="hint_activity_date_spn_form">Fecha</string>
+    <string name="hint_activity_date_eng_form">Date</string>
+    <string name="hint_activity_hour_spn_form">Hora</string>
+    <string name="hint_activity_hour_eng_form">Hour</string>
+    <string name="hint_activity_amount_spn_form">Cantidad Horas</string>
+    <string name="hint_activity_amount_eng_form">Amount Hours</string>
+    <string name="hint_activity_form_urlimagen">Imagen URL</string>
+
+    <string name="hint_activity_detail_spn_form">Descripción actividad</string>
+    <string name="hint_activity_detail_eng_form">Activity Description</string>
+    <string name="hint_activity_link_spn_form">Link de conexión o Lugar</string>
+    <string name="hint_activity_link_eng_form">Connection Link or Place</string>
+    <string name="txt_add_button_spn_form">Agregar actividad</string>
+    <string name="txt_add_button_eng_form">Add Activity</string>
+    <string name="txt_img_button_spn_form">Agregar imagen</string>
+    <string name="txt_img_button_eng_form">Add Image</string>
+    <!-- PROFILE -->
+    <string name="txt_title_spn_profile">Perfil</string>
+    <string name="txt_title_eng_profile">Profile</string>
+    <string name="txt_edit_button_spn_profile">Editar información</string>
+    <string name="txt_edit_button_eng_profile">Edit Information</string>
+    <!-- NAVIGATION MENU -->
+    <string name="txt_title_spn_menu">Menú</string>
+    <string name="txt_title_eng_menu">Menu</string>
+    <string name="txt_detail_student_btn_save">Guardar Evento</string>
+
+    <!--Detail-->
+    <string name="txt_detail_fecha">Fecha: %1$s</string>
+    <string name="txt_detail_hora">Hora: %1$s:00</string>
+    <string name="txt_detail_lugar">Lugar: %1$s</string>
+    <string name="txt_detail_amount_hours">Horas libres: %1$s</string>
+
+
+</resources>
